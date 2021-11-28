@@ -6,4 +6,4 @@
 
 <img src="https://github.com/WJOchman/Seven_Segment_Display/blob/main/Circuit_1.jpg" width="200" />
 <img src="https://github.com/WJOchman/Seven_Segment_Display/blob/main/Circuit_2.jpg" width="200" />
-<img src="https://github.com/WJOchman/Seven_Segment_Display/blob/main/Simulation_Circuit.png" width="200" />
+<img src="https://github.com/WJOchman/Seven_Segment_Display/blob/main/Simulation_Circuit.png" width="400" />

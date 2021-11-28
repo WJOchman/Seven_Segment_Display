@@ -4,4 +4,6 @@
   The purpose of this lab is to control a seven segment light display using an Arduino Uno and custom Arduino code.
 </p>
 
-![Seven_Segment_Display_Picture1](/Circuit_1.jpg = 250 x 250)
+<img src="https://github.com/WJOchman/Seven_Segment_Display/blob/main/Circuit_1.jpg" width="200" />
+
+https://github.com/WJOchman/Seven_Segment_Display/blob/main/Circuit_1.jpg

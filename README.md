@@ -5,5 +5,3 @@
 </p>
 
 <img src="https://github.com/WJOchman/Seven_Segment_Display/blob/main/Circuit_1.jpg" width="200" />
-
-https://github.com/WJOchman/Seven_Segment_Display/blob/main/Circuit_1.jpg
